@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "o/"
+title                    : "Hi! o/"
 title_separator          : "-"
 name                     : &name "Haydar Altug Yildirim"
 description              : &description "site!"
