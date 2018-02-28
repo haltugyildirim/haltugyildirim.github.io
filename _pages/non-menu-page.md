@@ -3,15 +3,11 @@ permalink: /non-menu-page/
 title: "Page not in menu"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
-redirect_from: 
+redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
-======
-
-Heading 2
-======
+* [Graphene Applications](http://www.nanobees.web.tr/en/research/graphene/applications)
+* [Graphene Device Characterization](http://nanobees.fizik.itu.edu.tr/en/facilities/devicecharacterization)
+* [Lock-in Theory for Scanning Tunneling Spectroscopy](http://haltugyildirim.github.io/files/lock-in.pdf)
