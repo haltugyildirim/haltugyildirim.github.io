@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "H. Altug Yildirim"
+  name             : "H. Altuğ Yıldırım"
   avatar           : "profile.png"
   bio              : "Master@FU Berlin, Istanbul TU 2016 Graduate"
   location         : "Berlin, DE"
@@ -110,6 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  GPG: "83C3FFC3"
 
 
 # Reading Files
