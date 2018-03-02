@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Courses"
+    url: /courses/
+    
   - title: "Blog"
     url: https://ilmarinengaraji.noblogs.org/
 
