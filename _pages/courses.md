@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-The courses I took in this semester are(WS17/18):
+The courses I took in this semester(WS17/18) are:
 
 * Advanced Laboratory Course for Master Students
 * Advanced Statistical Physics II
