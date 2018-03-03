@@ -16,4 +16,4 @@ The courses I took in this semester(WS17/18) are:
 
 * Advanced Laboratory Course for Master Students
 * Advanced Statistical Physics II
-* [Computer Tutorial in Markov Modeling](https://github.com/haltugyildirim/markovmaze/blob/master/markov_maze.ipynb)
+* [Computer Tutorial in Markov Modeling](https://github.com/haltugyildirim/markovmaze)
