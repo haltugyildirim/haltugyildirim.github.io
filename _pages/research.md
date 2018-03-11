@@ -1,4 +1,5 @@
 ---
+redirect_from: "https://haltugyildirim.github.io/doc/lock-in_theory_for_didv_v4.pdf"
 layout: archive
 title: "Research"
 excerpt: "These are the topics that, I had chance to work on during my Bachelor studies."
