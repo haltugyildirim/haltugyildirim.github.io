@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi! o/"
-title_separator          : "//"
+title                    : "Altuğ's Homepage"
+title_separator          : "**"
 name                     : &name "Haydar Altuğ Yıldırım"
 description              : &description "site!"
 url                      : https://haltugyildirim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "H. Altuğ Yıldırım"
   avatar           : "profile.png"
-  bio              : "Master@FU Berlin, Istanbul TU 2016 Graduate"
+  bio              : "Master@FU Berlin, İTÜ 2016 Graduate"
   location         : "Berlin, DE"
   employer         :
   googlescholar    :
