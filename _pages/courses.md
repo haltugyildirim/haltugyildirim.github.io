@@ -12,8 +12,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-The courses I took in this semester(WS17/18) are:
+Courses, that I took so far:
 
 * Advanced Laboratory Course for Master Students
-* Advanced Statistical Physics II
 * [Computer Tutorial in Markov Modeling](https://github.com/haltugyildirim/markovmaze)
+* Statistical Physics and Thermodynamics
+* Advanced Statistical Physics
+* Current Topics in Nanophysics
+* Advanced Solid State Physics
+* Surface Science
+* 20th Century Physics in Context
