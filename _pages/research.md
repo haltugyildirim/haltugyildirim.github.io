@@ -13,7 +13,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-*I had chance to work on these topics during my Bachelor studies.
+* I had chance to work on these topics during my Bachelor studies.
   * [Graphene Applications](http://www.nanobees.web.tr/en/research/graphene/applications)
   * [Graphene Device Characterization](http://nanobees.fizik.itu.edu.tr/en/facilities/devicecharacterization)
   * [Lock-in Theory for Scanning Tunneling Spectroscopy](http://haltugyildirim.github.io/files/lock-in/lock-in.pdf)
