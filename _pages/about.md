@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in experimental solid state physics, related instrumentation and recently to history of physics.
+I am interested in experimental & computational condensed matter physics, related instrumentation.
 
-You can find some related research that I done in my bachelor from research menu. Also you can find the information about the courses that I took during my studies. If you would like to know more about me, just go over my book list and shamelessly non-updated blog and drawing portfolio!
+You can find some related work that I done in research menu. Also you can find the information about the courses that I took during my studies. If you would like to know more about me, my book list, blog or drawing portfolio might help.
