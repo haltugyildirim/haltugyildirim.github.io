@@ -14,11 +14,11 @@ author_profile: true
 
 Courses, that I took so far:
 
-* Advanced Laboratory Course for Master Students
 * [Computer Tutorial in Markov Modeling](https://github.com/haltugyildirim/markovmaze)
+* Advanced Laboratory Course for Master Students
 * Statistical Physics and Thermodynamics
-* Advanced Statistical Physics
+* Signal Analysis in Physics
 * Current Topics in Nanophysics
 * Advanced Solid State Physics
 * Surface Science
-* 20th Century Physics in Context
+* Physics & Society
