@@ -19,4 +19,4 @@ author_profile: true
 * A white paper dealing with Lock-in theory for STS:
   * [*Lock-in Theory for Scanning Tunneling Spectroscopy*](http://haltugyildirim.github.io/files/lock-in/lock-in.pdf)
 
-<script src="https://embed.github.com/view/3d/haltugyildirim/haltugyildirim.github.io/blob/master/files/linear_actuator_coorddiff.STL"></script>
+<script src="https://embed.github.com/view/3d/haltugyildirim/haltugyildirim.github.io/master/files/linear_actuator_coorddiff.STL"></script>
