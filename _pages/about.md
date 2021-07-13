@@ -14,4 +14,4 @@ You can find some related work that I have done in the research menu. For exampl
 
 In the blog, I try to write about technical topics that I am interested in; Linux systems, 3d printing, custom electronics, and some practical physics calculations.
 
-Also, you can see my drawing portfolio for jobs when I was working on storyboards. 
+Also, you can check my drawing portfolio, mostly storyboards, if you are interested.
