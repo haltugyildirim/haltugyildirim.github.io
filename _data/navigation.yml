@@ -3,14 +3,15 @@ main:
   - title: "Research/Design"
     url: /research/
 
-  - title: "Courses"
-    url: /courses/
-
-  - title: "Drawing Portfolio"
-    url: https://www.behance.net/haltugyildirim
+#  - title: "Courses"
+#    url: /courses/
 
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Drawing Portfolio"
+    url: https://www.behance.net/haltugyildirim
+    
 #
 #  - title: "CV"
 #    url: /cv/
