@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am a master student of Physics in Freie Universität Berlin."
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in experimental & computational condensed matter physics and related instrumentation.
+I just graduated with a M.Sc. in Physics from Freie Universität Berlin and work as a scientific engineer in the Institute for Astrophysics Potsdam. I am interested in experimental & computational condensed matter physics and related instrumentation.
 
 You can find some related work that I have done in the research menu. For example, design work of UHV systems, data analysis package for ARPES systems, and several other projects are listed. 
 
