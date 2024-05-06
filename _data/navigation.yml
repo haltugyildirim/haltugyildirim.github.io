@@ -12,9 +12,9 @@ main:
   - title: "Drawing Portfolio"
     url: https://www.behance.net/haltugyildirim
     
-#
-#  - title: "CV"
-#    url: /cv/
+
+  - title: "CV"
+    url: /cv/
 #
 #  - title: "Guide"
 #    url: /markdown/
