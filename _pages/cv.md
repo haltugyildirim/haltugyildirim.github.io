@@ -18,8 +18,8 @@ Education
 
 Work experience
 ======
-* Research Data Engineer, **Paul Drude Institute for Solid State Electronics (PDI)**, January 2023 - Present
-  * Development of a data management plan (ongoing)
+* Research Data Engineer, **Paul Drude Institute for Solid State Electronics (PDI)**, January 2023 - January 2025
+  * Development of a data management plan
 
 * Physicist / Engineer, **The Leibniz Institute for Astrophysics Potsdam (AIP)**, October 2021 - November 2022
   * Resonator characterization in a Frequency Comb Generation Setup (FCGS)
