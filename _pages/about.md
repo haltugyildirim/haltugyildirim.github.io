@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am trained as an experimental physicist. In my latest work I had the role of Research Data Engineer in Paul-Drude-Institut Berlin. Before that, I was working as a scientific engineer in the Institute for Astrophysics Potsdam. I am interested in experimental & computational condensed matter physics and related instrumentation. Lately, I also developed some skills around self-hosting, Linux adminstration and container technology.
+I am trained as an experimental physicist. In my latest work I had the role of Research Data Engineer in Paul-Drude-Institut Berlin. Before that, I was working as a scientific engineer in the Institute for Astrophysics Potsdam. I am interested in experimental & computational condensed matter physics and related instrumentation. Lately, I also developed some skills around self-hosting, Linux administration and container technology.
 
 I graduated with a M.Sc. in Physics from Freie Universität Berlin with the thesis title "Spin- and Momentum-Resolved Electron Dynamics of Topological Surface States" where I investigated the topological surface state of $Sb_2Te_3$ with Angle-Resolved Time of Flight(ARTOF) experiments. During that time, also I worked on system design for spin resolution momentum microscopy by designing a UHV chamber and a crystal holder of the spin filter.
 
