@@ -11,7 +11,7 @@ title                    : "Altuğ's Homepage"
 title_separator          : "**"
 name                     : &name "Haydar Altuğ Yıldırım"
 description              : &description "site!"
-url                      : https://haltugyildirim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://altug.helidoni.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haltugyildirim/haltugyildirim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Physics/Data Management/Linux"
   location         : "Berlin, DE"
-  employer         : "Paul-Drude-Institut"
+  employer         : 
   googlescholar    :
   email            : "contact-altug@helidoni.org"
   uri              :
