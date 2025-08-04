@@ -17,3 +17,5 @@ You can find some related work that I have done in the research menu. For exampl
 In the blog, I try to write about technical topics that I am interested in; Linux systems, 3d printing, custom electronics, and some practical physics calculations.
 
 Also, you can check my drawing portfolio, mostly storyboards, if you are interested.
+
+You can reach me via mail or via XMPP (altug _at_ chat.helidoni.org)
