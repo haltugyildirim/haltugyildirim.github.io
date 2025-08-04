@@ -18,4 +18,4 @@ In the blog, I try to write about technical topics that I am interested in; Linu
 
 Also, you can check my drawing portfolio, mostly storyboards, if you are interested.
 
-You can reach me via mail or via XMPP (altug _at_ chat.helidoni.org)
+You can reach me via [mail](mailto:contact-altug@helidoni.org) or via [XMPP](xmpp.link/#altug@chat.helidoni.org)
